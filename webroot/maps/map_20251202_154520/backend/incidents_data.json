@@ -1,0 +1,76 @@
+{
+  "incidents": [
+    {
+      "location": "India",
+      "priority": "P1",
+      "description": "Firewall issue",
+      "incident_id": "INC0012348",
+      "category": "Firewall"
+    },
+    {
+      "location": "India",
+      "priority": "P1",
+      "description": "Firewall issue",
+      "incident_id": "INC0012349",
+      "category": "Firewall"
+    },
+    {
+      "location": "India",
+      "priority": "P1",
+      "description": "Access Management issue",
+      "incident_id": "INC0012350",
+      "category": "Access & Management"
+    },
+    {
+      "location": "India",
+      "priority": "P2",
+      "description": "Firewall issue",
+      "incident_id": "INC0012345",
+      "category": "Firewall"
+    },
+    {
+      "location": "India",
+      "priority": "P2",
+      "description": "Firewall issue",
+      "incident_id": "INC0012346",
+      "category": "Firewall"
+    },
+    {
+      "location": "India",
+      "priority": "P2",
+      "description": "Firewall issue",
+      "incident_id": "INC0012347",
+      "category": "Firewall"
+    },
+    {
+      "location": "USA",
+      "priority": "P1",
+      "description": "Critical server downtime.",
+      "incident_id": "INC0012203",
+      "category": "Other"
+    },
+    {
+      "location": "USA",
+      "priority": "P2",
+      "description": "VPN connection unstable.",
+      "incident_id": "INC0012201",
+      "category": "Other"
+    },
+    {
+      "location": "USA",
+      "priority": "P2",
+      "description": "Outlook not syncing contacts.",
+      "incident_id": "INC0012202",
+      "category": "Other"
+    }
+  ],
+  "metadata": {
+    "reporting_period": {
+      "end_date": "2025-11-30",
+      "start_date": "2025-10-01"
+    },
+    "generated_at": "2025-12-02T15:29:18.219414",
+    "total_incidents": 9
+  },
+  "timestamp": "2025-12-02T15:29:18.219414"
+}

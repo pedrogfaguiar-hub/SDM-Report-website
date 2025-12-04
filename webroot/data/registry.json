@@ -1,0 +1,102 @@
+{
+  "entries": [
+    {
+      "title": "Veoneer Report - November 2025",
+      "summary": "Complete analysis of Items, Changes and Incidents for November 2025",
+      "timestamp": "2025-12-03T03:37:24.690026Z",
+      "ppt_path": "reports/populated_presentation.pptx",
+      "map_path": "maps/map_20251203_033724/index.html"
+    },
+    {
+      "title": "Veoneer Report - November 2025",
+      "summary": "Complete analysis of Items, Changes and Incidents for November 2025",
+      "timestamp": "2025-12-02T18:33:18.706613Z",
+      "ppt_path": "reports/populated_presentation.pptx",
+      "map_path": "maps/map_20251202_183318/index.html"
+    },
+    {
+      "title": "Veoneer Report - December 2025",
+      "summary": "Complete analysis of Items, Changes and Incidents for December 2025",
+      "timestamp": "2025-12-02T16:12:51.572651Z",
+      "ppt_path": "reports/populated_presentation.pptx",
+      "map_path": "maps/map_20251202_161251/index.html"
+    },
+    {
+      "title": "Veoneer Report - November 2025",
+      "summary": "Complete analysis of Items, Changes and Incidents for November 2025",
+      "timestamp": "2025-12-02T15:45:20.896083Z",
+      "ppt_path": "reports/populated_presentation.pptx",
+      "map_path": "maps/map_20251202_154520/index.html"
+    },
+    {
+      "title": "Test Report - Unique Map Directories",
+      "summary": "Testing unique timestamped directories for each map to preserve historical data.",
+      "timestamp": "2025-12-02T15:18:19.876793Z",
+      "ppt_path": "reports/populated_presentation.pptx",
+      "map_path": "maps/map_20251202_151819/index.html"
+    },
+    {
+      "title": "Veoneer Report - November 2025",
+      "summary": "Complete analysis of Items, Changes and Incidents for August and September 2025",
+      "timestamp": "2025-12-02T14:24:04.758885Z",
+      "ppt_path": "reports/populated_presentation.pptx",
+      "map_path": "maps/index.html"
+    },
+    {
+      "title": "Veoneer Report - September 2025",
+      "summary": "Complete analysis of Items, Changes and Incidents for September 2025",
+      "timestamp": "2025-12-02T14:08:23.599702Z",
+      "ppt_path": "reports/populated_presentation.pptx",
+      "map_path": "maps/index.html"
+    },
+    {
+      "title": "Veoneer Report - September 2025",
+      "summary": "Complete analysis of Items, Changes and Incidents for September 2025",
+      "timestamp": "2025-12-02T12:09:14.728415Z",
+      "ppt_path": "reports/populated_presentation.pptx",
+      "map_path": "maps/index.html"
+    },
+    {
+      "title": "Test Report - Map Assets Fix",
+      "summary": "Testing map assets copy functionality with complete CSS, JS, and JSON data files.",
+      "timestamp": "2025-12-02T11:39:35.415491Z",
+      "ppt_path": "reports/populated_presentation.pptx",
+      "map_path": "maps/index.html"
+    },
+    {
+      "title": "Veoneer Report - September 2025",
+      "summary": "Complete analysis of Items, Changes and Incidents for September 2025",
+      "timestamp": "2025-11-28T18:39:09.387263Z",
+      "ppt_path": "reports/populated_presentation.pptx",
+      "map_path": "maps/index.html"
+    },
+    {
+      "title": "Veoneer Report - August 2025 to September 2025",
+      "summary": "Complete analysis of Items, Changes and Incidents for August 2025 to September 2025.",
+      "timestamp": "2025-11-25T12:02:38.113392Z",
+      "ppt_path": "reports/relatorio_01_08_2025_a_30_09_2025.pptx",
+      "map_path": "maps/map_01_08_2025_a_30_09_2025.html"
+    },
+    {
+      "title": "Veoneer Report - January 2025",
+      "summary": "Complete analysis of Items, Changes and Incidents for the first month of 2025. Includes resolution KPIs, priority distribution (P1-P4) and interactive global incident map.",
+      "timestamp": "2025-01-15T14:30:00Z",
+      "ppt_path": "reports/report_202501.pptx",
+      "map_path": "maps/map_202501.html"
+    },
+    {
+      "title": "December 2024 Analysis",
+      "summary": "Year-end report with analysis of all P1 and P2 incidents resolved during December. Highlights improvements in SLA response times.",
+      "timestamp": "2024-12-31T23:59:00Z",
+      "ppt_path": "reports/report_202412.pptx",
+      "map_path": "maps/map_202412.html"
+    },
+    {
+      "title": "November 2024 Report",
+      "summary": "Monthly monitoring of Items and Changes with focus on Firewall and Access Management incidents. Detailed analysis by geographic location.",
+      "timestamp": "2024-11-30T18:00:00Z",
+      "ppt_path": "reports/report_202411.pptx",
+      "map_path": "maps/map_202411.html"
+    }
+  ]
+}

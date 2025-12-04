@@ -1,0 +1,52 @@
+[
+    {
+        "location": "Germany",
+        "priority": "P1",
+        "description": "Falha crítica no servidor principal - Sistema offline"
+    },
+    {
+        "location": "Germany",
+        "priority": "P2",
+        "description": "Degradação de performance na base de dados"
+    },
+    {
+        "location": "USA",
+        "priority": "P1",
+        "description": "Violação de segurança detectada - Acesso não autorizado"
+    },
+    {
+        "location": "Japan",
+        "priority": "P2",
+        "description": "Alta latência nas conexões de rede"
+    },
+    {
+        "location": "Japan",
+        "priority": "P2",
+        "description": "Espaço em disco atingindo 85% de capacidade"
+    },
+    {
+        "location": "India",
+        "priority": "P1",
+        "description": "Interrupção total do serviço - Múltiplos servidores down"
+    },
+    {
+        "location": "France",
+        "priority": "P2",
+        "description": "Erro intermitente na API de pagamentos"
+    },
+    {
+        "location": "China",
+        "priority": "P1",
+        "description": "Perda de conectividade com datacenter secundário"
+    },
+    {
+        "location": "China",
+        "priority": "P1",
+        "description": "Sistema de backup falhou - Dados em risco"
+    },
+    {
+        "location": "Korea",
+        "priority": "P2",
+        "description": "Aumento anormal no tempo de resposta"
+    }
+]

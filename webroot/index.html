@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reports Repository</title>
+    <link rel="icon" type="image/png" href="assets/Hoopie-Logo_RGB_1-03.png">
+
+    <!-- Tailwind CSS via CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Custom styles -->
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body class="dark-theme">
+
+    <!-- Header -->
+    <header class="header-dark">
+        <img src="assets/Hoopie-Logo_RGB_1-03.png" alt="Hoopie" class="hoopie-logo">
+        <div class="container mx-auto px-6 py-8">
+            <div>
+                <h1 class="text-4xl font-bold text-green-400 mb-2">
+                    <i class="fas fa-folder-open mr-3"></i>
+                    Reports Repository
+                </h1>
+                <p class="text-gray-400 text-lg">
+                    Centralized archive of presentations and incident maps
+                </p>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-6 py-12">
+
+        <!-- Search and Filter Section -->
+        <div class="mb-8 search-box">
+            <div class="flex flex-col md:flex-row gap-4">
+                <div class="flex-1">
+                    <label class="block text-sm font-semibold text-green-400 mb-2">
+                        <i class="fas fa-search mr-2"></i>Search
+                    </label>
+                    <input
+                        type="text"
+                        id="search-input"
+                        placeholder="Search by title or summary..."
+                        class="input-dark"
+                    >
+                </div>
+                <div>
+                    <label class="block text-sm font-semibold text-green-400 mb-2">
+                        <i class="fas fa-sort mr-2"></i>Sort by
+                    </label>
+                    <select
+                        id="sort-select"
+                        class="select-dark"
+                    >
+                        <option value="date-desc">Most Recent</option>
+                        <option value="date-asc">Oldest</option>
+                        <option value="title-asc">Title (A-Z)</option>
+                        <option value="title-desc">Title (Z-A)</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <!-- Loading State -->
+        <div id="loading" class="text-center py-20">
+            <div class="inline-block animate-spin rounded-full h-16 w-16 border-b-4 border-green-400"></div>
+            <p class="mt-4 text-gray-400 text-lg">Loading reports...</p>
+        </div>
+
+        <!-- Empty State -->
+        <div id="empty-state" class="hidden text-center py-20">
+            <div class="text-gray-600 mb-6">
+                <i class="fas fa-inbox text-8xl"></i>
+            </div>
+            <h3 class="text-2xl font-bold text-gray-300 mb-2">No reports found</h3>
+            <p class="text-gray-500">No reports have been generated yet.</p>
+        </div>
+
+        <!-- Cards Grid -->
+        <div id="cards-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <!-- Cards will be dynamically inserted here -->
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer-dark">
+        <div class="container mx-auto px-6 py-8">
+            <div class="text-center text-gray-400">
+                <p class="mb-2">
+                    <i class="fas fa-robot text-green-400 mr-2"></i>
+                    Automated Report Management System
+                </p>
+                <p class="text-sm text-gray-500">
+                    Powered by Google ADK Agent | Gemini 2.5-pro
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Custom script -->
+    <script src="assets/script.js"></script>
+</body>
+</html>

@@ -75,11 +75,11 @@
   ],
   "metadata": {
     "reporting_period": {
-      "end_date": "2026-11-30",
-      "start_date": "2026-01-01"
+      "start_date": "2026-01-01",
+      "end_date": "2026-11-30"
     },
-    "generated_at": "2025-12-08T01:53:40.405270",
+    "generated_at": "2025-12-08T04:21:53.992484",
     "total_incidents": 9
   },
-  "timestamp": "2025-12-08T01:53:40.405270"
+  "timestamp": "2025-12-08T04:21:53.992484"
 }

@@ -1,77 +1,85 @@
 {
-    "metadata": {
-        "reporting_period": {
-            "start_date": "2026-01-01",
-            "end_date": "2026-11-30"
-        },
-        "total_incidents": 9,
-        "p1_count": 2,
-        "p2_count": 7,
-        "timestamp": "2025-12-08T21:06:48.872801"
+  "incidents": [
+    {
+      "location": "USA",
+      "priority": "P1",
+      "description": "Critical server down",
+      "incident_id": "INC101552",
+      "category": "Other",
+      "servicenow_url": "https://servicenow.example.com/INC101552"
     },
-    "incidents": [
-        {
-            "id": "INC101552",
-            "priority": "P1",
-            "description": "Critical server down",
-            "location": "USA",
-            "serviceNowLink": "https://servicenow.example.com/INC101552"
-        },
-        {
-            "id": "INC102781",
-            "priority": "P1",
-            "description": "Database connection failure",
-            "location": "Canada",
-            "serviceNowLink": "https://servicenow.example.com/INC102781"
-        },
-        {
-            "id": "INC201774",
-            "priority": "P2",
-            "description": "Incorrect time settings",
-            "location": "Germany",
-            "serviceNowLink": "https://servicenow.example.com/INC201774"
-        },
-        {
-            "id": "INC202113",
-            "priority": "P2",
-            "description": "Application loading slowly",
-            "location": "Germany",
-            "serviceNowLink": "https://servicenow.example.com/INC202113"
-        },
-        {
-            "id": "INC203554",
-            "priority": "P2",
-            "description": "WiFi access request",
-            "location": "Japan",
-            "serviceNowLink": "https://servicenow.example.com/INC203554"
-        },
-        {
-            "id": "INC204908",
-            "priority": "P2",
-            "description": "Meeting room display flickering",
-            "location": "Sweden",
-            "serviceNowLink": "https://servicenow.example.com/INC204908"
-        },
-        {
-            "id": "INC205212",
-            "priority": "P2",
-            "description": "Minor keyboard malfunction",
-            "location": "USA",
-            "serviceNowLink": "https://servicenow.example.com/INC205212"
-        },
-        {
-            "id": "INC206445",
-            "priority": "P2",
-            "description": "Internal chat app delay",
-            "location": "France",
-            "serviceNowLink": "https://servicenow.example.com/INC206445"
-        },
-        {
-            "id": "INC207991",
-            "priority": "P2",
-            "description": "Login attempt locked",
-            "location": "Korea",
-            "serviceNowLink": "https://servicenow.example.com/INC207991"
-        }
-    ]
+    {
+      "location": "Canada",
+      "priority": "P1",
+      "description": "Database connection failure",
+      "incident_id": "INC102781",
+      "category": "Other",
+      "servicenow_url": "https://servicenow.example.com/INC102781"
+    },
+    {
+      "location": "Germany",
+      "priority": "P2",
+      "description": "Incorrect time settings",
+      "incident_id": "INC201774",
+      "category": "Other",
+      "servicenow_url": "https://servicenow.example.com/INC201774"
+    },
+    {
+      "location": "Germany",
+      "priority": "P2",
+      "description": "Application loading slowly",
+      "incident_id": "INC202113",
+      "category": "Other",
+      "servicenow_url": "https://servicenow.example.com/INC202113"
+    },
+    {
+      "location": "Japan",
+      "priority": "P2",
+      "description": "WiFi access request",
+      "incident_id": "INC203554",
+      "category": "Access & Management",
+      "servicenow_url": "https://servicenow.example.com/INC203554"
+    },
+    {
+      "location": "Sweden",
+      "priority": "P2",
+      "description": "Meeting room display flickering",
+      "incident_id": "INC204908",
+      "category": "Other",
+      "servicenow_url": "https://servicenow.example.com/INC204908"
+    },
+    {
+      "location": "USA",
+      "priority": "P2",
+      "description": "Minor keyboard malfunction",
+      "incident_id": "INC205212",
+      "category": "Other",
+      "servicenow_url": "https://servicenow.example.com/INC205212"
+    },
+    {
+      "location": "France",
+      "priority": "P2",
+      "description": "Internal chat app delay",
+      "incident_id": "INC206445",
+      "category": "Other",
+      "servicenow_url": "https://servicenow.example.com/INC206445"
+    },
+    {
+      "location": "Korea",
+      "priority": "P2",
+      "description": "Login attempt locked",
+      "incident_id": "INC207991",
+      "category": "Other",
+      "servicenow_url": "https://servicenow.example.com/INC207991"
+    }
+  ],
+  "metadata": {
+    "reporting_period": {
+      "end_date": "2026-11-30",
+      "start_date": "2026-01-01"
+    },
+    "generated_at": "2025-12-08T23:25:52.512219",
+    "total_incidents": 9
+  },
+  "timestamp": "2025-12-08T23:25:52.512219"
 }

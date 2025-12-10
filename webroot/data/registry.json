@@ -1,11 +1,46 @@
 {
   "entries": [
     {
+      "title": "RCS Report - November 2026",
+      "summary": "Complete analysis of Items, Changes and Incidents for November 2026",
+      "timestamp": "2025-12-10T13:05:32.029167Z",
+      "ppt_path": "reports/report_20251210_130531/presentation.pptx",
+      "map_path": "reports/report_20251210_130531/map/index.html"
+    },
+    {
+      "title": "Veoneer Report - January 2026 to November 2026",
+      "summary": "Complete analysis of Items, Changes and Incidents for January 2026 to November 2026",
+      "timestamp": "2025-12-09T00:50:17.872374Z",
+      "ppt_path": "reports/report_20251209_005017/presentation.pptx",
+      "map_path": "reports/report_20251209_005017/map/index.html"
+    },
+    {
       "title": "Veoneer Report - November 2026",
       "summary": "Complete analysis of Items, Changes and Incidents for November 2026",
-      "timestamp": "2025-12-09T01:45:32.926223Z",
-      "ppt_path": "reports/report_20251209_014532/presentation.pptx",
-      "map_path": "reports/report_20251209_014532/map/index.html"
+      "timestamp": "2025-12-09T00:13:44.676677Z",
+      "ppt_path": "reports/report_20251209_001344/presentation.pptx",
+      "map_path": "reports/report_20251209_001344/map/index.html"
+    },
+    {
+      "title": "Veoneer Report - November 2026",
+      "summary": "Complete analysis of Items, Changes and Incidents for November 2026",
+      "timestamp": "2025-12-08T23:39:01.206397Z",
+      "ppt_path": "reports/report_20251208_233901/presentation.pptx",
+      "map_path": "reports/report_20251208_233901/map/index.html"
+    },
+    {
+      "title": "Veoneer Report - January 2026 to November 2026",
+      "summary": "Complete analysis of Items, Changes and Incidents for January 2026 to November 2026",
+      "timestamp": "2025-12-08T21:15:12.208336Z",
+      "ppt_path": "reports/report_20251208_211512/presentation.pptx",
+      "map_path": "reports/report_20251208_211512/map/index.html"
+    },
+    {
+      "title": "Veoneer Report - November 2026",
+      "summary": "Complete analysis of Items, Changes and Incidents for November 2026",
+      "timestamp": "2025-12-08T05:45:34.183623Z",
+      "ppt_path": "reports/report_20251208_054534/presentation.pptx",
+      "map_path": "reports/report_20251208_054534/map/index.html"
     },
     {
       "title": "Veoneer Report - November 2025",
